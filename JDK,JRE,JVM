@@ -1,0 +1,5 @@
+JDK stands for Java Development Kit. It is a software development environment that is used for developing applications and programs. We need JDK because JDK converts source code into a format that the Java Runtime Environment can run.
+
+JRE stands for Java Runtime Environment. It is software that runs on a computer operating system software and provides the user class libraries and other resources that a Java program needs to run.
+
+JVM stands for Java Virtual Machine, and it is a machine that enables a computer to run java programs and other programs that are written in a different language that is compiled to Java bytecode.
